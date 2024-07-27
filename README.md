@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently studying at AcunMedya Academy<br>🤝 I’m looking for internship opportunity<br>🌱 I'm currently learning Back-End Development
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serkanozgurel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-%C3%B6zg%C3%BCrel-a1b127271/) 
 
